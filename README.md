@@ -1,2 +1,11 @@
 # ADOwnFAI
-Manage your ADOFAI Levels, with nice GUI
+A Client for ChobojaX`s ADOFAI Forum.
+초보잭스의 얼불포럼을 위한 클라이언트입니다.
+
+(아래 내용은 딱히 쓸 공간이 없어서 일단 여기다가 써둠)
+## 왜 새로운 포럼을 만드는가
+우선 크게 두가지가 있습니다.
+1. 구글 드라이브에서 api 같은걸 써서 파일 다운로드를 못함
+2. 얼불춤 비공식 포럼이 업데이트가 없음
+
+ㅏㅇ귀찮닺나중에적음
